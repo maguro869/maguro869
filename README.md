@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm maguro869</h1>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
+<p align="center">
+<a href="https://twitter.com/maguro869" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maguro869" height="30" width="30" /></a>
+</p>
 <!--
 **maguro869/maguro869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
