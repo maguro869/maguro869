@@ -10,7 +10,7 @@ I've recently been working on validating various streaming protocols on a cloud 
 I use various social networking sites, so feel free to reach out to me.
 
 ##### Skills: 
-Main: Python 
+Main: Python  
 Sub: Java / C# / HTML / CSS / JS / jQuery
 
 - 🔭 I’m currently working on Twitch Bot 
