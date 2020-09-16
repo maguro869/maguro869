@@ -4,7 +4,7 @@
 ![I am GitHub read me generator creator](https://pbs.twimg.com/profile_images/1253353757036797953/PX4NRRT0_400x400.jpg)
 
 I often create bots for various services in Python.
-ex) Discord, Twitch, Line, Twitter
+ex) Discord, Twitch, LINE, Twitter
 I've recently been working on validating various streaming protocols on a cloud server.
 
 I use various social networking sites, so feel free to reach out to me.
