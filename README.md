@@ -9,8 +9,8 @@ I've recently been working on validating various streaming protocols on a cloud 
 I use various social networking sites, so feel free to reach out to me.  
 
 ##### Dev Langs: 
-Main: Python  
-Sub: Java / C# / HTML / CSS / JS
+Main: Python / Go  
+Sub: Java / C# / HTML / CSS / JS / PHP
 
 - 🔭 I’m currently working on Twitch Bot 
 - 🌱 I’m currently learning Streaming protocol 
